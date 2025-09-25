@@ -3,4 +3,4 @@ Strawberry Detection algorithm using yolov8 and Depth Estimation with Depth-Anyt
 
 
 ### Research Poster
-![Poster](research_poster.png)
+![Poster](poster.png)
