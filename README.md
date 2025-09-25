@@ -1,2 +1,6 @@
 # GeolocationofStrawberries
 Strawberry Detection algorithm using yolov8 and Depth Estimation with Depth-Anything-V2 
+
+
+### Research Poster
+![Poster](research_poster.png)
